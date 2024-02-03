@@ -1,0 +1,13 @@
+@font-face {
+    font-family:"lobster";
+    src: url("/assets/font/Lobster-Regular.ttf");
+}
+body{
+    background-color: #1A2059;
+    color: #7A5800;
+    font-family:"lobster",sans-serif;
+}
+button{
+    background-color: #7A5800;
+    color: #1A2059;
+}

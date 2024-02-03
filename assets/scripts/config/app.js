@@ -1,0 +1,36 @@
+var code1,code2,code3,code4,code5,code6
+const arr=[
+    {
+        employee_number:1,
+        Nickname:"Skino1",
+        Last_name:"Варламов",
+        First_Name:"Сергей",
+        Patronymic:"Максимович",
+        employee_code:code1,
+    },
+    {
+        employee_number:2,
+        Nickname:"Zyugute",
+        Last_name:"Мозер",
+        First_Name:"Николай",
+        Patronymic:"Алекландрович",
+        employee_code:code2,
+    },
+    {
+        employee_number:3,
+        Nickname:"BUTCHER31",
+        Last_name:"Шутка",
+        First_Name:"Всеволод",
+        Patronymic:"Анатольевич",
+        employee_code:code3,
+    },
+    {
+        employee_number:4,
+        Nickname:"huggesss",
+        Last_name:"Кулев",
+        First_Name:"Тимур",
+        Patronymic:"",
+        employee_code:code4,
+    },
+]
+console.table(arr)
